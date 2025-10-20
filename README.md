@@ -25,8 +25,8 @@ Atualmente, meu foco de estudo está em **C#** e tecnologias de **Desenvolviment
 ## 📂 Estrutura do Repositório
 
 Para manter tudo organizado, as soluções estão separadas em pastas que correspondem às categorias do próprio Beecrowd. Dentro de cada pasta de categoria, há uma subpasta para cada problema, nomeada com seu ID e título.
+
 ```
-/
 ├── 📁 Iniciante/
 │   ├── 📝 1001 - Extremamente Basico/
 │   │   ├── solucao.cs
